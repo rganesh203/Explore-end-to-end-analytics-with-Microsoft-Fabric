@@ -1,4 +1,4 @@
-# Explore-end-to-end-analytics-with-Microsoft-Fabric
+# Explore-end-to-end-Analytics-with-Microsoft-Fabric
 Microsoft Fabric is a unified data platform introduced by Microsoft to streamline and enhance data management and analytics capabilities across organizations. It integrates various data services and tools into a cohesive platform to support the entire data lifecycle, from ingestion and storage to transformation, analysis, and visualization.
 
 Scalable analytics can be complex, fragmented, and expensive. With Microsoft Fabric, you don't have to spend all of your time combining various services from different vendors. Instead, you can use a single product that is easy to understand, set up, create, and manage. Fabric offers persona-optimized experiences and tools in an integrated user interface.
