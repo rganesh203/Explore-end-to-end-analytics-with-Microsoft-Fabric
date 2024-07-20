@@ -6,12 +6,12 @@ Scalable analytics can be complex, fragmented, and expensive. With Microsoft Fab
 In addition to a simple, shared user experience, Fabric is a unified software-as-a-service (SaaS) offering, with all your data stored in a single open format in OneLake. OneLake is accessible by all of the analytics engines in the platform. Fabric offers scalability, cost-effectiveness, accessibility from anywhere with an internet connection, and continuous updates and maintenance provided by Microsoft.
 
 ###Explore OneLake
+
 OneLake is Fabric's lake-centric architecture that provides a single, integrated environment for data professionals and the business to collaborate on data projects. Fabric's OneLake architecture facilitates collaboration between data team members and saves time by eliminating the need to move and copy data between different systems and teams. OneCopy is a key component of OneLake that allows you to read data from a single copy, without moving or duplicating data.
 
 Think of it like OneDrive for data; OneLake combines storage locations across different regions and clouds into a single logical lake, without moving or duplicating data. Similar to how Office applications are prewired to use your organizational OneDrive, all the compute workloads in Fabric are preconfigured to work with OneLake. Fabric's data warehousing, data engineering (Lakehouses and Notebooks), data integration (pipelines and dataflows), real-time intelligence, and Power BI all use OneLake as their native store without needing any extra configuration.
 
 ![image](https://github.com/user-attachments/assets/1da6bfb8-c4f2-4f1c-b92a-ae6642d2b524)
-
 
 OneLake is built on top of Azure Data Lake Storage (ADLS) and data can be stored in any format, including Delta, Parquet, CSV, JSON, and more.
 
@@ -33,6 +33,7 @@ Power BI: business intelligence for translating data to decisions.
 Fabric provides a comprehensive data analytics solution by unifying all these experiences on a single platform.
 
 ###Explore security and governance
+
 Fabric's OneLake is centrally governed and open for collaboration. Data is secured and governed in one place, while remaining discoverable and accessible to users who should have access across your organization. Fabric administration is centralized in the admin center.
 
 In the admin center you can manage groups and permissions, configure data sources and gateways, and monitor usage and performance. You can also access the Fabric admin APIs and SDKs in the admin center, which you'd use to automate common tasks and integrate Fabric with other systems.
@@ -65,6 +66,7 @@ Microsoft 365 admin
 Fabric can be enabled at the tenant level or capacity level, meaning that it can be enabled for the entire organization or for specific groups of users. If you don't have access to Fabric, contact your Fabric administrator to find out if it's available to you. The Fabric administrator was formerly the Power BI administrator role.
 
 ###Enable Microsoft Fabric
+
 If you have admin privileges, you can access the Admin center from the Settings menu in the upper right corner of the Power BI service. From here, you enable Fabric in the Tenant settings.
 
 Admins can make Fabric available to either the entire organization or specific groups of users, who can be organized based on their Microsoft 365 or Microsoft Entra security groups. Admins can also delegate the ability to enable Fabric to other users, at the capacity level.
@@ -85,11 +87,13 @@ Note
 For more information on enabling Premium capacity in a workspace, see Fabric capacity settings.
 
 ###Create items in Fabric
+
 After you create your Fabric enabled workspace, you can start creating items in Fabric. You can create items in Fabric using the Create menu in the upper left corner of the Power BI service.
 
 ![image](https://github.com/user-attachments/assets/f7bb084a-0eda-4e28-a698-8ac8133704c0)
 
 ###Explore Fabric workloads
+
 Fabric workloads refer to the different capabilities included in Fabric. You can switch between workloads using the workload switcher in the bottom left corner of the navigation pane.
 
 ![image](https://github.com/user-attachments/assets/1ba8ac33-24d3-4fa4-a5e4-3e4de738e97a)
